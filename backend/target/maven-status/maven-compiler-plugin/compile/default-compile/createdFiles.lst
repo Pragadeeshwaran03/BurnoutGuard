@@ -1,0 +1,17 @@
+com\burnout\controller\AuthController.class
+com\burnout\repository\ActivityLogRepository.class
+com\burnout\controller\ActivityLogController.class
+com\burnout\model\BurnoutRecord.class
+com\burnout\service\ActivityLogService.class
+com\burnout\config\JwtUtil.class
+com\burnout\model\BurnoutRecord$RiskLevel.class
+com\burnout\BurnoutDetectionApplication.class
+com\burnout\model\User$Role.class
+com\burnout\config\SecurityConfig.class
+com\burnout\model\ActivityLog.class
+com\burnout\repository\UserRepository.class
+com\burnout\model\BurnoutRecord$Builder.class
+com\burnout\model\User$Builder.class
+com\burnout\model\User.class
+com\burnout\config\JwtAuthFilter.class
+com\burnout\model\ActivityLog$Builder.class

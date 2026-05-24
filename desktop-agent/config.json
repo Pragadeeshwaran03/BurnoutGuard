@@ -1,0 +1,10 @@
+{
+  "api_url": "http://localhost:8080",
+  "email": "vetriop03@gmail.com",
+  "password": "1234",
+  "send_interval_seconds": 30,
+  "idle_threshold_seconds": 120,
+  "log_file": "agent.log",
+  "log_max_bytes": 5242880,
+  "log_backup_count": 3
+}

@@ -1,0 +1,288 @@
+{
+  "totals": {
+    "BurnoutGuard \u2014 Activity Monitor": 754,
+    "README.md - FINALYEAR PROJECT - Visual Studio Code": 42,
+    "Login / Register \u2014 BurnoutGuard": 20,
+    "Program Manager": 9,
+    "New tab - Google Chrome": 23,
+    "Quick settings": 13,
+    "Task View": 8,
+    "BurnoutGuard \u2013 AI-Powered Burnout Detection - [InPrivate] - Microsoft\u200b Edge": 118,
+    "Search": 17,
+    "MySQL Workbench": 85,
+    "Connect to MySQL Server": 5,
+    "Task Switching": 1,
+    "730924632031 (PRAGADEESHWARAN K) - File Explorer": 13,
+    "USB Drive (D:) - File Explorer": 3,
+    "PRAGADEESHWSARAN K_730924632031 - File Explorer": 12,
+    "72% complete": 1,
+    "92% complete": 1,
+    "Desktop - File Explorer": 3,
+    "Windows Default Lock Screen": 1,
+    "Untitled - [InPrivate] - Microsoft\u200b Edge": 1,
+    "about:blank and 1 more page - [InPrivate] - Microsoft\u200b Edge": 1,
+    "Weekly Burnout Summary and 1 more page - [InPrivate] - Microsoft\u200b Edge": 5
+  },
+  "log": [
+    {
+      "ts": "15:16:54",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 59
+    },
+    {
+      "ts": "15:17:07",
+      "title": "README.md - FINALYEAR PROJECT - Visual Studio Code",
+      "duration": 13
+    },
+    {
+      "ts": "15:17:22",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 15
+    },
+    {
+      "ts": "15:17:42",
+      "title": "Login / Register \u2014 BurnoutGuard",
+      "duration": 20
+    },
+    {
+      "ts": "15:18:23",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 40
+    },
+    {
+      "ts": "15:18:28",
+      "title": "Program Manager",
+      "duration": 5
+    },
+    {
+      "ts": "15:18:33",
+      "title": "New tab - Google Chrome",
+      "duration": 5
+    },
+    {
+      "ts": "15:18:34",
+      "title": "Quick settings",
+      "duration": 1
+    },
+    {
+      "ts": "15:18:52",
+      "title": "New tab - Google Chrome",
+      "duration": 18
+    },
+    {
+      "ts": "15:18:53",
+      "title": "Program Manager",
+      "duration": 1
+    },
+    {
+      "ts": "15:18:54",
+      "title": "Task View",
+      "duration": 1
+    },
+    {
+      "ts": "15:19:03",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 8
+    },
+    {
+      "ts": "15:19:44",
+      "title": "BurnoutGuard \u2013 AI-Powered Burnout Detection - [InPrivate] - Microsoft\u200b Edge",
+      "duration": 41
+    },
+    {
+      "ts": "15:20:12",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 28
+    },
+    {
+      "ts": "15:20:28",
+      "title": "Search",
+      "duration": 15
+    },
+    {
+      "ts": "15:20:31",
+      "title": "MySQL Workbench",
+      "duration": 3
+    },
+    {
+      "ts": "15:20:36",
+      "title": "Connect to MySQL Server",
+      "duration": 5
+    },
+    {
+      "ts": "15:20:59",
+      "title": "MySQL Workbench",
+      "duration": 23
+    },
+    {
+      "ts": "15:21:01",
+      "title": "Task View",
+      "duration": 2
+    },
+    {
+      "ts": "15:21:21",
+      "title": "README.md - FINALYEAR PROJECT - Visual Studio Code",
+      "duration": 20
+    },
+    {
+      "ts": "15:21:44",
+      "title": "MySQL Workbench",
+      "duration": 23
+    },
+    {
+      "ts": "15:21:53",
+      "title": "README.md - FINALYEAR PROJECT - Visual Studio Code",
+      "duration": 9
+    },
+    {
+      "ts": "15:21:54",
+      "title": "Task Switching",
+      "duration": 1
+    },
+    {
+      "ts": "15:22:31",
+      "title": "MySQL Workbench",
+      "duration": 36
+    },
+    {
+      "ts": "15:22:35",
+      "title": "Task View",
+      "duration": 4
+    },
+    {
+      "ts": "15:23:10",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 34
+    },
+    {
+      "ts": "15:23:12",
+      "title": "Program Manager",
+      "duration": 2
+    },
+    {
+      "ts": "15:23:25",
+      "title": "730924632031 (PRAGADEESHWARAN K) - File Explorer",
+      "duration": 13
+    },
+    {
+      "ts": "15:23:27",
+      "title": "USB Drive (D:) - File Explorer",
+      "duration": 2
+    },
+    {
+      "ts": "15:23:29",
+      "title": "PRAGADEESHWSARAN K_730924632031 - File Explorer",
+      "duration": 2
+    },
+    {
+      "ts": "15:23:30",
+      "title": "72% complete",
+      "duration": 1
+    },
+    {
+      "ts": "15:23:31",
+      "title": "92% complete",
+      "duration": 1
+    },
+    {
+      "ts": "15:23:41",
+      "title": "PRAGADEESHWSARAN K_730924632031 - File Explorer",
+      "duration": 10
+    },
+    {
+      "ts": "15:23:42",
+      "title": "USB Drive (D:) - File Explorer",
+      "duration": 1
+    },
+    {
+      "ts": "15:23:45",
+      "title": "Desktop - File Explorer",
+      "duration": 3
+    },
+    {
+      "ts": "15:23:46",
+      "title": "Program Manager",
+      "duration": 1
+    },
+    {
+      "ts": "15:23:47",
+      "title": "Task View",
+      "duration": 1
+    },
+    {
+      "ts": "15:28:12",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 265
+    },
+    {
+      "ts": "15:28:14",
+      "title": "Windows Default Lock Screen",
+      "duration": 1
+    },
+    {
+      "ts": "15:29:04",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 49
+    },
+    {
+      "ts": "15:29:10",
+      "title": "Quick settings",
+      "duration": 6
+    },
+    {
+      "ts": "15:29:14",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 4
+    },
+    {
+      "ts": "15:29:16",
+      "title": "Search",
+      "duration": 2
+    },
+    {
+      "ts": "15:29:18",
+      "title": "Quick settings",
+      "duration": 2
+    },
+    {
+      "ts": "15:29:21",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 3
+    },
+    {
+      "ts": "15:29:26",
+      "title": "Quick settings",
+      "duration": 4
+    },
+    {
+      "ts": "15:33:35",
+      "title": "BurnoutGuard \u2014 Activity Monitor",
+      "duration": 249
+    },
+    {
+      "ts": "15:33:36",
+      "title": "Untitled - [InPrivate] - Microsoft\u200b Edge",
+      "duration": 1
+    },
+    {
+      "ts": "15:34:31",
+      "title": "BurnoutGuard \u2013 AI-Powered Burnout Detection - [InPrivate] - Microsoft\u200b Edge",
+      "duration": 55
+    },
+    {
+      "ts": "15:34:32",
+      "title": "about:blank and 1 more page - [InPrivate] - Microsoft\u200b Edge",
+      "duration": 1
+    },
+    {
+      "ts": "15:34:37",
+      "title": "Weekly Burnout Summary and 1 more page - [InPrivate] - Microsoft\u200b Edge",
+      "duration": 5
+    },
+    {
+      "ts": "15:35:00",
+      "title": "BurnoutGuard \u2013 AI-Powered Burnout Detection - [InPrivate] - Microsoft\u200b Edge",
+      "duration": 22
+    }
+  ]
+}

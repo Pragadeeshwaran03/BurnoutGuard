@@ -1,0 +1,4 @@
+pynput==1.7.7
+requests==2.32.3
+schedule==1.2.2
+mouse==0.7.1
